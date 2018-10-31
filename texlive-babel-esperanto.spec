@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-esperanto
 Version:	1.4t
-Release:	1
+Release:	2
 Summary:	TeXLive babel-esperanto package
 Group:		Publishing
 URL:		http://tug.org/texlive
